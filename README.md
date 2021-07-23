@@ -6,4 +6,11 @@ Domains I created and own:
 
 SpeedyFingers.net
 
+Skills and Languages I work with: 
+
+- HTML, Java Script, CSS. 
+- MERN Stack: MongoDB, Express, React, Node.js. 
+- C++, MatLab, Python. 
+- Unity 
+
 
