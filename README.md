@@ -4,9 +4,9 @@ This Github is dedicated to my personal projects and my professional development
 
 Domains I created and own: 
 
-https://NikoIcardo.com
-https://SpeedyFingers.net
-https://stupefied-thompson-2921ec.netlify.app/ (React Principles: currently no reason to pay for a domain name). 
+- https://NikoIcardo.com
+- https://SpeedyFingers.net
+- https://stupefied-thompson-2921ec.netlify.app/ (React Principles: currently no reason to pay for a domain name). 
 
 Skills and Languages I work with: 
 
