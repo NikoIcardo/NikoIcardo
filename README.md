@@ -9,7 +9,7 @@ Domains I created and own:
 - Sight Seeing: https://admiring-austin-7c036d.netlify.app/
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
 
-Skills and Languages I work with: 
+Technologies and Languages I work with: 
 
 - HTML, Java Script, CSS. 
 - MERN Stack: MongoDB, Express, React, Node.js.
