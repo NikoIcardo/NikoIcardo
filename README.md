@@ -6,7 +6,7 @@ Domains I created and own:
 
 - https://NikoIcardo.com
 - https://SpeedyFingers.net
-- Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (In Development.) Currently working on the API under the repository REST-API-for-Sight-Seeing. You may login with the following: email - test@test.com, password - password
+- Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (In Development. See Repository Read Me.)
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
 
 Technologies and Languages I work with: 
