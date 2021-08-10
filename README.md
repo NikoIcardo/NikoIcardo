@@ -7,7 +7,7 @@ Domains I created and own:
 - https://NikoIcardo.com
 - https://SpeedyFingers.net
 - Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (In Development. See Repository Read Me.)
-- React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
+- React Principles: https://stupefied-thompson-2921ec.netlify.app/ (No need to pay for domain name currently.)
 
 Technologies and Languages I work with: 
 
