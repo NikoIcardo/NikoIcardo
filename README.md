@@ -4,8 +4,8 @@ This Github is dedicated to my personal projects and my professional development
 
 Domains I created and own: 
 
-- https://NikoIcardo.com
-- https://SpeedyFingers.net
+- https://NikoIcardo.com (Built with React and Tailwind)
+- https://SpeedyFingers.net (Vanilla JS and Bootstrap)
 - Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (In Development. See Repository Read Me.)
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ (No need to pay for domain name currently.)
 
