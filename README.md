@@ -13,10 +13,8 @@ Technologies and Languages I work with:
 
 - HTML, Java Script, CSS. 
 - MERN Stack: MongoDB, Express, React, Node.js.
-- NPM
 - REST API
 - MVC Architecture
-- MongoDB & Mongoose
 - Bootstrap CSS 
 - Tailwind CSS
 - P5 JS  
