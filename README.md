@@ -19,7 +19,8 @@ Technologies and Languages I work with:
 - MVC Architecture
 - Bootstrap CSS 
 - Tailwind CSS
-- P5 JS  
+- Three.js
+- p5.js
 - C++, MatLab, Python. 
 - Unity C#
 
