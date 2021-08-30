@@ -7,7 +7,7 @@ Domains I created and own:
 - https://NikoIcardo.com (Built with React and Tailwind)
 - Niko's Three.js Demonstration: https://silly-villani-dcd0b8.netlify.app/ (Three.js) 
 - https://SpeedyFingers.net (Vanilla JS and Bootstrap)
-- Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (In Development. See Repository Read Me https://github.com/NikoIcardo/Sight-Seeing.)
+- Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (Heroku host currently deletes all uploaded photos after 30 minutes.)
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ (No need to pay for domain name currently.)
 
 
