@@ -2,11 +2,11 @@ This Github is dedicated to my personal projects and my professional development
 
 Domains I created and own: 
 
-- https://NikoIcardo.com (Built with React and Tailwind)
-- Niko's Three.js Demonstration: https://silly-villani-dcd0b8.netlify.app/ (Three.js) 
-- https://SpeedyFingers.net (Vanilla JS and Bootstrap)
-- Github Finder: https://flamboyant-ardinghelli-e6926e.netlify.app/ (React)
-- Sight Seeing: https://admiring-austin-7c036d.netlify.app/ (MERN FULL STACK APPLICATION: Heroku host currently deletes all uploaded photos after 30 minutes.)
+- (Built with React and Tailwind) https://NikoIcardo.com 
+- Niko's Three.js Demonstration: (Three.js)  https://silly-villani-dcd0b8.netlify.app/ 
+- SpeedyFingers.net: (Vanilla JS and Bootstrap) https://SpeedyFingers.net 
+- Github Finder: (React) https://flamboyant-ardinghelli-e6926e.netlify.app/ 
+- Sight Seeing: (MERN FULL STACK APPLICATION: Heroku host currently deletes all uploaded photos after 30 minutes.) https://admiring-austin-7c036d.netlify.app/ 
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
 
 
