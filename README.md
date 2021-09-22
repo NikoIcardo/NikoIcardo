@@ -6,7 +6,7 @@ Domains I created and own:
 - Niko's Three.js Demonstration: (Three.js)  https://silly-villani-dcd0b8.netlify.app/ 
 - SpeedyFingers.net: (Vanilla JS and Bootstrap) https://SpeedyFingers.net 
 - Github Finder: (React) https://flamboyant-ardinghelli-e6926e.netlify.app/ 
-- Sight Seeing: (MERN FULL STACK APPLICATION: Heroku host currently deletes all uploaded photos after 30 minutes.) https://admiring-austin-7c036d.netlify.app/ 
+- Sight Seeing: (MERN Stack: Heroku host currently deletes all uploaded photos after 30 minutes.) https://admiring-austin-7c036d.netlify.app/ 
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
 
 
