@@ -2,7 +2,7 @@ This Github is dedicated to my personal projects and my professional development
 
 Domains I created and own: 
 
-- (Built with React and Tailwind) https://NikoIcardo.com 
+- My Web Portfolio: (Built with React and Tailwind) https://NikoIcardo.com 
 - Niko's Three.js Demonstration: (Three.js)  https://silly-villani-dcd0b8.netlify.app/ 
 - SpeedyFingers.net: (Vanilla JS and Bootstrap) https://SpeedyFingers.net 
 - Github Finder: (React) https://flamboyant-ardinghelli-e6926e.netlify.app/ 
