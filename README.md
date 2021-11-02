@@ -15,10 +15,11 @@ Domains I created and own:
 
 Technologies and Languages I work with: 
 
-- HTML, Java Script, CSS. 
+- Typescript
 - MERN Stack: MongoDB, Express, React, Node.js.
+- PERN Stack: Postgresql, Express, React, Node.js.
+- HTML, Java Script, CSS. 
 - REST API
-- MVC Architecture
 - Bootstrap CSS 
 - Tailwind CSS
 - Three.js
