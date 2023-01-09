@@ -28,6 +28,6 @@ Technologies and Languages I work with:
 - Unity C#
 
 
-MORE INFO ON MY PORTFOLIO!!!!!!!!!!!!!!!! https://NIKOICARDO.COM
+More information available at my professional portfolio https://NIKOICARDO.COM
 
 
