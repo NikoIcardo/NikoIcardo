@@ -1,6 +1,6 @@
 This Github is dedicated to my personal projects and my professional development. It is also intended to be a loose portfolio. 
 
-Domains I created and own: 
+Domains I created and own - note these are more Jr. Projects from a year ago when I was just starting my development journey. To get a broader picture of my current skillset visit my resume on my portfolio site: 
 
 - My Web Portfolio: (Built with React and Tailwind CSS) https://NikoIcardo.com 
 - Niko's Three.js Demonstration: (Three.js)  https://silly-villani-dcd0b8.netlify.app/ 
