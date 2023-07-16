@@ -1,6 +1,14 @@
 **Niko Icardo - Software Engineer**
 
 Hello, glad you're here. If you are interested in working with me reach out on LinkedIn: www.linkedin.com/in/niko-icardo. 
+
+**Interests:**
+- API Development
+- Data Pipeline Development
+- Redux Architecture
+- Backend Engineering
+- Optimization
+- Challenging Problems :) 
  
 **Experience:**
 - Languages: Typescript, Javascript (ES5/ES6), Python, C++, Matlab, PHP, HTML5, CSS3
