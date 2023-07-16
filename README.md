@@ -1,7 +1,24 @@
-This Github is dedicated to my personal projects and my professional development. It is also intended to be a loose portfolio. 
+Niko Icardo - Software Engineer 
 
-Domains I created and own - note these are more Jr. Projects from a year ago when I was just starting my development journey. To get a broader picture of my current skillset visit my resume on my portfolio site: 
+Hello, glad you're here. Let me tell you a bit about myself. I'm a passionate engineer who enjoys solving larger structural issues and problems in applications from designing data pipelines and repositories like redux structures and REST API structures to diagnosing latency issues within those architectures and optimizing them to make them more efficient. I enjoy challenging tasks and feature integrations making large contributions and even building full applications on my own. I am not driven be mediocrity and would not be happy building a fancy button for a week. Rather, I would like to build a button framework to implement diverse button functionality for large integration throughout an entire set of applications and use-cases. 
 
+I have a strong eye for detail. Give me thirty lines of code and I'll find 20 things to improve. Give me a bug that you haven't been able to solve and I'll pour hours into investigating it ensuring I understand where the issue is and resolving it before I can rest. I like projects that hand me large responsibility and allow me room to grow my engineering abilities. I never back down from a challenge and also work well with teams utilizing team knowledge and contributing my own to enhance teams' efficiencies. I believe, in the humblest of ways, that I am a rare engineer having drive and capability not usually found at my experience level.
+
+Despite this recognition of my own ability, I enjoy recognizing talent in others as well and helping them learn how to apply their strengths and fortify where they have difficulty. Taking on a teaching role is something I take great pleasure in; I thoroughly enjoy working with other engineers and am no stranger to listening to advice and constructive criticisms from others either. My ultimate goal in engineering is to learn and challenge myself and I think that starts with humility.  
+
+If you think you have a project I'd be able to contribute to please do not hessitate to let me know. I would love to hear about it. 
+
+
+Experience: 
+Languages: Typescript, Javascript (ES5/ES6), Python, C++, Matlab, PHP, HTML5, CSS3
+Frameworks & Runtimes: React.js, Next.js, Node.js, Tailwind CSS, Emotion CSS, Bootstrap CSS, Sassy CSS
+Databases tech: Postgres, Sequelize, Mongodb, SQL, SQL Lite, PHP Myadmin
+Notable Packages: Redux, Redux Thunk, Redux Saga, Redux Toolkit, Redux Selectors, Socket.io
+Application Packaging & Deployment: Next.js, Webpack (3 & 4 & 5), Babel, TS-Compiler, Amazon EC2 Linux, Apache 2.0, Docker
+Other: REST API's, SOAP APIs
+
+
+Some Side projects from throughout the years: 
 - My Web Portfolio: (Built with React and Tailwind CSS) https://NikoIcardo.com 
 - Niko's Three.js Demonstration: (Three.js)  https://silly-villani-dcd0b8.netlify.app/ 
 - SpeedyFingers.net: (Vanilla JS and Bootstrap CSS) https://SpeedyFingers.net 
@@ -10,24 +27,5 @@ Domains I created and own - note these are more Jr. Projects from a year ago whe
 - Github Finder: (React) https://flamboyant-ardinghelli-e6926e.netlify.app/ 
 - Sight Seeing: (MERN Stack: Heroku host currently deletes all uploaded photos after 30 minutes.) https://admiring-austin-7c036d.netlify.app/ 
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
-
-
-
-Technologies and Languages I work with: 
-
-- Typescript
-- MERN Stack: MongoDB, Express, React, Node.js.
-- PERN Stack: Postgresql, Express, React, Node.js.
-- HTML, Java Script, CSS. 
-- REST API
-- Bootstrap CSS 
-- Tailwind CSS
-- Three.js
-- p5.js
-- C++, MatLab, Python. 
-- Unity C#
-
-
-More information available at my professional portfolio https://nikoicardo.com
 
 
