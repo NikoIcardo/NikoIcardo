@@ -8,7 +8,7 @@ Hello, glad you're here. If you are interested in working with me reach out on L
 - Redux Architecture
 - Backend Engineering
 - Optimization
-- Challenging Problems :) 
+- Challenging Problems
  
 **Experience:**
 - Languages: Typescript, Javascript (ES5/ES6), Python, C++, Matlab, PHP, HTML5, CSS3
