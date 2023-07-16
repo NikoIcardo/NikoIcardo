@@ -1,4 +1,4 @@
-**Niko Icardo - Software Engineer **
+**Niko Icardo - Software Engineer**
 
 Hello, glad you're here. If you are interested in working with me reach out on LinkedIn: www.linkedin.com/in/niko-icardo. 
  
