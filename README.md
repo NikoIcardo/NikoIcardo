@@ -1,17 +1,17 @@
-Niko Icardo - Software Engineer 
+**Niko Icardo - Software Engineer **
 
 Hello, glad you're here. If you are interested in working with me reach out on LinkedIn: www.linkedin.com/in/niko-icardo. 
  
-Experience: 
-Languages: Typescript, Javascript (ES5/ES6), Python, C++, Matlab, PHP, HTML5, CSS3
-Frameworks & Runtimes: React.js, Next.js, Node.js, Tailwind CSS, Emotion CSS, Bootstrap CSS, Sassy CSS
-Databases tech: Postgres, Sequelize, Mongodb, SQL, SQL Lite, PHP Myadmin
-Notable Packages: Redux, Redux Thunk, Redux Saga, Redux Toolkit, Redux Selectors, Socket.io
-Application Packaging & Deployment: Next.js, Webpack (3 & 4 & 5), Babel, TS-Compiler, Amazon EC2 Linux, Apache 2.0, Docker
-Other: REST API's, SOAP APIs
+**Experience: **
+- Languages: Typescript, Javascript (ES5/ES6), Python, C++, Matlab, PHP, HTML5, CSS3
+- Frameworks & Runtimes: React.js, Next.js, Node.js, Tailwind CSS, Emotion CSS, Bootstrap CSS, Sassy CSS
+- Databases tech: Postgres, Sequelize, Mongodb, SQL, SQL Lite, PHP Myadmin
+- Notable Packages: Redux, Redux Thunk, Redux Saga, Redux Toolkit, Redux Selectors, Socket.io
+- Application Packaging & Deployment: Next.js, Webpack (3 & 4 & 5), Babel, TS-Compiler, Amazon EC2 Linux, Apache 2.0, Docker
+- Other: REST API's, SOAP APIs
 
 
-Some Side projects from throughout the years: 
+**Some Side projects from throughout the years: **
 - My Web Portfolio: (Built with React and Tailwind CSS) https://NikoIcardo.com 
 - Niko's Three.js Demonstration: (Three.js)  https://silly-villani-dcd0b8.netlify.app/ 
 - SpeedyFingers.net: (Vanilla JS and Bootstrap CSS) https://SpeedyFingers.net 
@@ -21,7 +21,7 @@ Some Side projects from throughout the years:
 - Sight Seeing: (MERN Stack: Heroku host currently deletes all uploaded photos after 30 minutes.) https://admiring-austin-7c036d.netlify.app/ 
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
 
-A bit about myself: 
+**A bit about myself: **
 
 I'm a passionate engineer who enjoys solving larger structural issues and problems in applications from designing data pipelines and repositories like redux structures and REST API structures to diagnosing latency issues within those architectures and optimizing them to make them more efficient. I enjoy challenging tasks and feature integrations making large contributions and even building full applications on my own. I am not driven be mediocrity and would not be happy building a fancy button for a week. Rather, I would like to build a button framework to implement diverse button functionality for large integration throughout an entire set of applications and use-cases. 
 
