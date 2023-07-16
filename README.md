@@ -1,14 +1,7 @@
 Niko Icardo - Software Engineer 
 
-Hello, glad you're here. Let me tell you a bit about myself. I'm a passionate engineer who enjoys solving larger structural issues and problems in applications from designing data pipelines and repositories like redux structures and REST API structures to diagnosing latency issues within those architectures and optimizing them to make them more efficient. I enjoy challenging tasks and feature integrations making large contributions and even building full applications on my own. I am not driven be mediocrity and would not be happy building a fancy button for a week. Rather, I would like to build a button framework to implement diverse button functionality for large integration throughout an entire set of applications and use-cases. 
-
-I have a strong eye for detail. Give me thirty lines of code and I'll find 20 things to improve. Give me a bug that you haven't been able to solve and I'll pour hours into investigating it ensuring I understand where the issue is and resolving it before I can rest. I like projects that hand me large responsibility and allow me room to grow my engineering abilities. I never back down from a challenge and also work well with teams utilizing team knowledge and contributing my own to enhance teams' efficiencies. I believe, in the humblest of ways, that I am a rare engineer having drive and capability not usually found at my experience level.
-
-Despite this recognition of my own ability, I enjoy recognizing talent in others as well and helping them learn how to apply their strengths and fortify where they have difficulty. Taking on a teaching role is something I take great pleasure in; I thoroughly enjoy working with other engineers and am no stranger to listening to advice and constructive criticisms from others either. My ultimate goal in engineering is to learn and challenge myself and I think that starts with humility.  
-
-If you think you have a project I'd be able to contribute to please do not hessitate to let me know. I would love to hear about it. 
-
-
+Hello, glad you're here. If you are interested in working with me reach out on LinkedIn: www.linkedin.com/in/niko-icardo. 
+ 
 Experience: 
 Languages: Typescript, Javascript (ES5/ES6), Python, C++, Matlab, PHP, HTML5, CSS3
 Frameworks & Runtimes: React.js, Next.js, Node.js, Tailwind CSS, Emotion CSS, Bootstrap CSS, Sassy CSS
@@ -28,4 +21,12 @@ Some Side projects from throughout the years:
 - Sight Seeing: (MERN Stack: Heroku host currently deletes all uploaded photos after 30 minutes.) https://admiring-austin-7c036d.netlify.app/ 
 - React Principles: https://stupefied-thompson-2921ec.netlify.app/ 
 
+A bit about myself: 
 
+I'm a passionate engineer who enjoys solving larger structural issues and problems in applications from designing data pipelines and repositories like redux structures and REST API structures to diagnosing latency issues within those architectures and optimizing them to make them more efficient. I enjoy challenging tasks and feature integrations making large contributions and even building full applications on my own. I am not driven be mediocrity and would not be happy building a fancy button for a week. Rather, I would like to build a button framework to implement diverse button functionality for large integration throughout an entire set of applications and use-cases. 
+
+I have a strong eye for detail. Give me thirty lines of code and I'll find 20 things to improve. Give me a bug that you haven't been able to solve and I'll pour hours into investigating it ensuring I understand where the issue is and resolving it before I can rest. I like projects that hand me large responsibility and allow me room to grow my engineering abilities. I never back down from a challenge and also work well with teams utilizing team knowledge and contributing my own to enhance teams' efficiencies. I believe, in the humblest of ways, that I am a rare engineer having drive and capability not usually found at my experience level.
+
+Despite this recognition of my own ability, I enjoy recognizing talent in others as well and helping them learn how to apply their strengths and fortify where they have difficulty. Taking on a teaching role is something I take great pleasure in; I thoroughly enjoy working with other engineers and am no stranger to listening to advice and constructive criticisms from others either. My ultimate goal in engineering is to learn and challenge myself and I think that starts with humility.  
+
+If you think you have a project I'd be able to contribute to please do not hessitate to let me know. I would love to hear about it.
