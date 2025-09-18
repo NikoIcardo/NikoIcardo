@@ -20,6 +20,6 @@ Hello, glad you're here. If you are interested in working with me reach out on L
 
 **A bit about myself:**
 
-I'm a dedicated engineer passionate about tackling complex structural issues in applications, from designing data pipelines to optimizing latency. With a keen eye for detail, I thrive on improving code efficiency and resolving stubborn bugs. I excel in both independent projects and collaborative team environments, leveraging my skills to enhance team efficiency. While I take pride in my abilities, I also enjoy mentoring others and continuously learning from constructive feedback. My ultimate goal is to push boundaries, grow as an engineer, and make significant contributions to impactful projects. If you have a challenging project, I'd love to discuss how I can contribute.
+I'm a dedicated engineer passionate about tackling complex structural issues in applications, from designing data pipelines to optimizing latency. With a keen eye for detail, I thrive on improving code efficiency and resolving stubborn bugs. I excel in both independent projects and collaborative team environments, leveraging my skills to enhance team efficiency. While I take pride in my abilities, I also enjoy mentoring others and continuously learning from constructive feedback. My ultimate goal is to push my technical boundaries, grow as an engineer, and make significant contributions to impactful projects. If you have a challenging project, I'd love to discuss how I can contribute.
 
 
